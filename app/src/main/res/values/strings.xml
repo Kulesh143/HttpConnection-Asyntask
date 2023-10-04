@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HttpCon</string>
+    <string name="btn1">Without Async Task</string>
+    <string name="btn2">Async Task</string>
+    <string name="btn3">AsyncTask with Parameters</string>
+    <string name="txtView1">Hello</string>
+    <string name="txtView2">Counting</string>
+</resources>
